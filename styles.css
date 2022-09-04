@@ -1,10 +1,10 @@
 
   body {
-    background-color: #D2D79F;
+    background-color: ##90c4f2;
   }
 
   hr{
-        background-color: #D2D79F;
+        background-color: ##4c6477;
         border-style: dotted;
         border-color: black;
         border-width: 10px;
@@ -13,9 +13,9 @@
         width: 5%;
       }
 
-h1{ color:#42855B;
+h1{ color:##4c6477;
 }
-h3{ color:#42855B;
+h3{ color:##4c6477;
 }
 
 a:link {

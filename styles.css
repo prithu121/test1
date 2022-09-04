@@ -3,16 +3,15 @@
     background-color: #90c4f2;
   }
 
-  hr{
-        background-color: #4c6477;
+hr{
+        background-color: #90c4f2;
         border-style: dotted;
-        border-color: black;
+        border-color: #4c6477;
         border-width: 10px;
         border-bottom-style: none;
         height: 0;
-        width: 5%;
+        width: 10%;
       }
-
 h1{ color:#4c6477;
 }
 h3{ color:#4c6477;

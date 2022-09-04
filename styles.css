@@ -1,0 +1,47 @@
+
+  body {
+    background-color: #D2D79F;
+  }
+
+  hr{
+        background-color: #D2D79F;
+        border-style: dotted;
+        border-color: black;
+        border-width: 10px;
+        border-bottom-style: none;
+        height: 0;
+        width: 5%;
+      }
+
+h1{ color:#42855B;
+}
+h3{ color:#42855B;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #42855B;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+p {color: black;
+   display: block;
+}
